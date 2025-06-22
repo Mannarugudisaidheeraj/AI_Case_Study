@@ -1,0 +1,7 @@
+Ticket ID | Predicted Category | Predicted Route
+SUP-001 | bug | backend_team
+SUP-002 | ui_issue | frontend_team
+SUP-003 | feature_request | product_management
+SUP-004 | integration | product_management
+SUP-005 | security | security_team
+
